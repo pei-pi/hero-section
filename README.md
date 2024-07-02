@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## 介绍
+
+使用Next.js搭建的一个兼容各平台的页面
+
 ## Getting Started
 
 First, run the development server:
